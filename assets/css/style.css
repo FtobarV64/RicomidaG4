@@ -1,0 +1,48 @@
+:root {
+  --black: #000;
+  --white: #fff;
+  --danger: #dc3545;
+  --gris: #dddddd;
+  --bg-footer: #373a3c;
+}
+.body {
+  font-family: "Cabin", sans-serif;
+  font-family: "Lobster", cursive;
+}
+
+.ft-nav {
+    font-family: "Lobster", cursive;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
+
+.ft-title{
+    font-weight: 700;
+}
+
+.ft-type{
+    font-family: "Lobster", cursive;
+    background: var(--bg-footer);
+    font-size: 2rem;
+}
+
+.ft-type1{
+    font-family: "Lobster", cursive;
+}
+
+.none{
+    list-style-type: none;
+}
+
+.ft-height{
+    height: 25rem;
+}
+
+.mt-6{
+    margin-top: 6rem;
+}
+
+hr {
+border-top-color: #000;
+}
+
